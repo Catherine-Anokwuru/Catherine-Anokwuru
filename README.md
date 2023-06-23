@@ -2,9 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-catherineanokwuru-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherineanokwuru)](https://www.linkedin.com/in/catherine-anokwuru-5a4694199/) [![Twitter Badge](https://img.shields.io/badge/-@CatorKate-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CatorKate)](https://twitter.com/Cat_or_Kate)
 
-[![Linkedin Badge](https://img.shields.io/badge/-meshachodejide-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meshachodejide)](https://www.linkedin.com/in/meshach-odejide-4a9167185/)
-[![Twitter Badge](https://img.shields.io/badge/-@meshachdare-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/meshachdare)](https://twitter.com/meshachdare)
-
 I'm a Software Developer, I love sharing my knowledge and I'm open to contributing to open-source projects. I'm skilled in using HTML, CSS/SCSS and Javascript/ReactJs to build responsive web applications.
 
 **Here's a quick summary about me**:
