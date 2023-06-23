@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-iambolajiayo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iambolajiayo)](https://www.linkedin.com/in/catherine-anokwuru-5a4694199/) [![Twitter Badge](https://img.shields.io/badge/-@iambolajiayo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/Cat_or_Kate)
+[![Linkedin Badge](https://img.shields.io/badge/-catherine-anokwuru-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catherine-anokwuru)](https://www.linkedin.com/in/catherine-anokwuru-5a4694199/) [![Twitter Badge](https://img.shields.io/badge/-@Cat-or-Kate-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Cat-or-Kate)](https://twitter.com/Cat_or_Kate)
 
 I'm a Software Developer, I love sharing my knowledge and I'm open to contributing to open-source projects. I'm skilled in using HTML, CSS/SCSS and Javascript/ReactJs to build responsive web applications.
 
