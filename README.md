@@ -6,13 +6,13 @@ I'm a Software Developer, I love sharing my knowledge and I'm open to contributi
 
 **Here's a quick summary about me**:
 
-💡 I'm a self-taught software developer.
-🌱 I’m currently working on my ideas and exploring frontend development.
-😊 I’m interested in open-source projects, hackathons, internships, and entry-level opportunities.
-💬 Ask me about Frontend development, Asynchronous Javascript, ReactJs, and Frontend frameworks and libraries.
-💼 Job interests: Software Engineer, Frontend Engineer (Intern or Junior level).
-📫 You can view my resume and contact me by emailing catherineanokwuru@gmail.com.
-⚡ Fun fact: I love reading about people from different cultures and backgrounds.
+- 💡 I'm a self-taught software developer.
+- 🌱 I’m currently working on my ideas and exploring frontend development.
+- 😊 I’m interested in open-source projects, hackathons, internships, and entry-level opportunities.
+- 💬 Ask me about Frontend development, Asynchronous Javascript, ReactJs, and Frontend frameworks and libraries.
+- 💼 Job interests: Software Engineer, Frontend Engineer (Intern or Junior level).
+- 📫 You can view my resume and contact me by emailing catherineanokwuru@gmail.com.
+- ⚡ Fun fact: I love reading about people from different cultures and backgrounds.
 ---
 
 ---
