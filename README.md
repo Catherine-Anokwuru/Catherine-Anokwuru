@@ -15,6 +15,3 @@ I'm a Software Developer, I love sharing my knowledge and I'm open to contributi
 - ⚡ Fun fact: I love reading about people from different cultures and backgrounds.
 ---
 
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Catherine-Anokwuru&show_icons=true&include_all_commits=true&hide_border=true" alt="Catherine-Anokwuru's GitHub stats" />
