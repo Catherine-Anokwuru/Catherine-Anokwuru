@@ -12,6 +12,6 @@ I'm a Software Developer, I love sharing my knowledge and I'm open to contributi
 - 💬 Ask me about Frontend development, Asynchronous Javascript, ReactJs, and Frontend frameworks and libraries.
 - 💼 Job interests: Frontend Engineer (Intern or Junior level), UI Engineer.
 - 📫 You can contact me by emailing catherineanokwuru@gmail.com.
-- ⚡ Fun fact: I love watching sitcoms, laughter is the best medicine.
+- ⚡ Fun fact: I love watching sitcoms because laughter is the best medicine.
 ---
 
